@@ -1044,10 +1044,10 @@
             "mapper": {
                 "url": "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell",
                 "method": "post",
-                "headers": [
+                "    headers": [
                     {
                         "name": "Authorization",
-                        "value": "Bearer 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"
+                        "value": "Bearer YOUR_HUGGING_FACE_TOKEN_HERE"
                     },
                     {
                         "name": "Content-Type",
