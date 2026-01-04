@@ -1047,7 +1047,7 @@
                 "    headers": [
                     {
                         "name": "Authorization",
-                        "value": "Bearer YOUR_HUGGING_FACE_TOKEN_HERE"
+                        "value": "Bearer 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"
                     },
                     {
                         "name": "Content-Type",
